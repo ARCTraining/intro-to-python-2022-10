@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://replit.com/badge/github/ARCTraining/intro-to-python-2022-10)](https://replit.com/new/github/ARCTraining/intro-to-python-2022-10)
 # Repl.it repository for [SWD1a Introduction to Python](https://arctraining.github.io/python-2021-04/index.html)
 This repository contains components for SWD1a Introduction to Python course.
 
